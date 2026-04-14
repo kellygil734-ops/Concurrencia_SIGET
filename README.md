@@ -17,8 +17,7 @@ La solución está desarrollada en **C++** utilizando las siguientes herramienta
 * **Prevención de Bloqueos:** Implementación de lógica de notificación para evitar *deadlocks* (interbloqueos).
 
 ## Instrucciones de Ejecución
-Para compilar y ejecutar la simulación en un entorno Linux/GDB:
-
-1. **Compilación:**
-   ```bash
-   g++ -pthread main.cpp -o siget_concurrencia
+##  Cómo ejecutar
+1. Abrir el archivo `main.cpp` en **GDB Online** o cualquier IDE de Windows (como VS Code o Dev-C++).
+2. Seleccionar el lenguaje **C++**.
+3. Presionar **Run** (Ejecutar).
